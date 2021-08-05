@@ -11,4 +11,3 @@ The Official RBXUtil Plugins Github Repo
 | Plugins | Description                              |
 |--------|------------------------------------------|
 | Welcome Message  | Welcomes you when you enter. |
-| Better YT | Makes YouTube better.             |
